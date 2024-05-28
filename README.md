@@ -3,4 +3,4 @@ This Python script allows you to apply sharpening and grayscale filters to image
 
 You need to create a folder named assets consisting of images and run it by using command python image_editor.py.
 
-# -Shivangi Suyash
+-Shivangi Suyash
